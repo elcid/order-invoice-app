@@ -1,0 +1,4 @@
+org/example/app/entities/Invoice.class
+org/example/app/entities/Order.class
+org/example/app/resources/OrderResource.class
+org/example/app/consumers/InvoiceConsumer.class
