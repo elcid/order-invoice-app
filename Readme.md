@@ -10,10 +10,6 @@ This solution provides a complete Quarkus application using **Java 21**, **H2 Da
 ### Prerequisites
 You need a local AMQP broker (like RabbitMQ) running, or you can rely on Quarkus Dev Services if you have Docker installed, which will spin up a RabbitMQ container automatically.
 
-### The Generator Script
-Save the following code as `generate_app.sh`, give it execution permissions (`chmod +x generate_app.sh`), and run it (`./generate_app.sh`).
-
-
 
 ### How to Run
 
